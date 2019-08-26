@@ -1,0 +1,4 @@
+Bundle-Name: proof-portlet
+Bundle-SymbolicName: proof.portlet
+Bundle-Version: 1.0.0
+Export-Package: proof.portlet.constants
